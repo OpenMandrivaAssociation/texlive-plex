@@ -1,6 +1,6 @@
 Name:		texlive-plex
 Version:	64496
-Release:	1
+Release:	2
 Summary:	Support for IBM Plex fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/plex
