@@ -1,5 +1,5 @@
 Name:		texlive-plex
-Version:	69154
+Version:	73028
 Release:	1
 Summary:	Support for IBM Plex fonts
 Group:		Publishing
